@@ -9,7 +9,7 @@ const Footer = () => {
         <a target="_blank" href="https://www.linkedin.com/in/patricio-ramos-621b1a27a/" rel="noopener noreferrer"><i className="fab fa-linkedin fa-2x"></i></a>
         <a href="mailto:patricioramos116@gmail.com"><i className="fas fa-envelope fa-2x"></i></a>
       </div>
-      <p>&copy; 2026 Patricio Ramos. Todos los derechos reservados.</p>
+      <p>&copy;2026 Patricio Ramos. Todos los derechos reservados.</p>
     </footer>
   );
 };
